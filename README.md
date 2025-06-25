@@ -83,8 +83,4 @@ Sistem ini merupakan proyek keamanan untuk sepeda motor yang memungkinkan penggu
 Dibuat pada: **25 Juni 2025**  
 Penulis: *Sistem Keamanan Motor Berbasis Arduino, GPS, dan SIM800L*
 
----
 
-## 📄 Lisensi
-
-Lisensi bebas digunakan untuk keperluan edukasi dan pengembangan pribadi. Tidak untuk diperjualbelikan tanpa izin pembuat.
