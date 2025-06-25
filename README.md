@@ -25,7 +25,7 @@ Sistem ini merupakan proyek keamanan untuk sepeda motor yang memungkinkan penggu
 | GPS Module (NEO-6M)   | 1      | Untuk pelacakan lokasi            |
 | Relay 4 Channel       | 1      | Kontrol mesin, alarm, starter, dll|
 | Sensor Getar (SW-420) | 1      | Deteksi getaran                   |
-| Step-down LM2596      | 1      | Menurunkan tegangan aki           |
+| Step-down LM2596      | 3      | Menurunkan tegangan aki           |
 | SIM Card Aktif        | 1      | Dengan pulsa untuk SMS/Telepon    |
 
 ### Library Arduino
