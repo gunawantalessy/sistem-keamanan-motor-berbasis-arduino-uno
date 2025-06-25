@@ -81,6 +81,6 @@ Sistem ini merupakan proyek keamanan untuk sepeda motor yang memungkinkan penggu
 ## 🗓️ Dokumentasi
 
 Dibuat pada: **25 Juni 2025**  
-Penulis: *Gunawan Talessy, Jubeda Kwairumasabandar, Irwanti gani*
+Penulis: *Gunawan Talessy, Jubeda Kwairumasabandar, Irwanti Gani*
 
 
