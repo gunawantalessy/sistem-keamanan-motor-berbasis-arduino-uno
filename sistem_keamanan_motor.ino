@@ -4,7 +4,7 @@
 #include <Wire.h>
 
 // Nomor Telepon yang Diizinkan
-const String AUTHORIZED_PHONE = "+6282199799982";
+const String AUTHORIZED_PHONE = "+62xxxxxxxxxxx";
 
 // Pin Konfigurasi
 #define relayPin 5          // Relay utama (ON/OFF motor)
